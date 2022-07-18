@@ -1,11 +1,7 @@
 <div id="top"></div>
 
-
-
-
 <!-- PROJECT SHIELDS -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <br />
 <div align="center">
@@ -13,7 +9,6 @@
     Mock Website made purely with CSS and HTML
   </p>
 </div>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -31,6 +26,12 @@ Includes Mock Text, Images, functioning buttons and 4 functional pages.
     - `final.html`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Responsive Design
+
+<img src="Images/Responive-Demonstration.png" alt="Responsive Demonstration" width="500"/>
+<br>
+<img src="Images/Lights-Intro.png" alt="Normal" height="500"/>
 
 ### Built With
 
