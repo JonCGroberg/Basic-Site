@@ -15,9 +15,7 @@
 
 ![Homepage](Images/Homepage.png)
 
-Mock Website made purely with CSS and HTML
-
-Includes Mock Text, Images, functioning buttons and 4 functional pages.
+Includes Mock text, images, functioning buttons, and 4 functional pages.
   - Home Page
     - `index.html`
   - Lights Lesson 
@@ -34,8 +32,6 @@ Includes Mock Text, Images, functioning buttons and 4 functional pages.
 <img src="Images/Lights-Intro.png" alt="Normal" height="500"/>
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![HTML][HTML5]][HTML5-url]
 * [![CSS][CSS]][CSS-url]
